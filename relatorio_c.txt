@@ -1,0 +1,200 @@
+PERGUNTA: Estrutura de Dados: Fila Dupla Circular. Erro ao imprimir 
+DATA: 3 horas atrás 
+VOTOS: -2
+
+PERGUNTA: strcmp erro (aparentemente erro esta na comparação) 
+DATA: 7 horas atrás 
+VOTOS: -4
+
+PERGUNTA: Erro na função push para uma pilha 
+DATA: 8 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Estou fazendo um trabalho para a faculdade e tenho que desenfileirar um conjunto de informações sem apagar aquelas que já adicionei [fechada] 
+DATA: 22 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Problema ao printar o maior numero do meu código 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Me ajudem nesse programa por favor estou perdido [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: error: cannot convert char* to char** [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Problema em struct 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Como passar uma variável para definir o tamanho de um array static? 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Eu queria mostrar o maior e menor elemento do vetor, mas não consigo mostrar o menor, onde esta o erro? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Estou tentando criar uma nova matriz, com elementos de 2 outras matrizes, porem sem sucesso. Qual a melhor forma de fazer isso em C? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Como ler e imprimir uma palavra inteira em C++ 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Selection sort não funciona com valores grandes 
+DATA: 7/06 às 16:16 
+VOTOS: -1
+
+PERGUNTA: Função shutdown() encerrando servidor 
+DATA: 7/06 às 13:50 
+VOTOS: 0
+
+PERGUNTA: Runtime error no URI - 1171 [fechada] 
+DATA: 7/06 às 13:37 
+VOTOS: 0
+
+PERGUNTA: Problema com espaços e structs em C [duplicada] 
+DATA: 7/06 às 11:17 
+VOTOS: 0
+
+PERGUNTA: Função inet_ntop retornando 0.0.0.0 na primeira chamada 
+DATA: 7/06 às 10:04 
+VOTOS: 0
+
+PERGUNTA: Preciso de ajuda para achar um erro em um programa [fechada] 
+DATA: 7/06 às 4:39 
+VOTOS: 0
+
+PERGUNTA: Qual o erro nesse programa [fechada] 
+DATA: 7/06 às 3:27 
+VOTOS: 0
+
+PERGUNTA: C code asking for an int * instead of an int in standard input [fechada] 
+DATA: 6/06 às 21:51 
+VOTOS: -3
+
+PERGUNTA: Problemas ao compilar código em C - “[Error]: Id returned 1 exit status” 
+DATA: 6/06 às 19:47 
+VOTOS: -2
+
+PERGUNTA: Eu estou tentando fazer uma calculadora com instruções prévias do curso. Mas é ignorado meus “if, else if” [fechada] 
+DATA: 6/06 às 15:46 
+VOTOS: -1
+
+PERGUNTA: Qual o termo que devo utilizar em português para “dereference” um ponteiro 
+DATA: 6/06 às 10:21 
+VOTOS: 3
+
+PERGUNTA: Como limpar uma string para o valor anterior depois de usar o strcat()? 
+DATA: 6/06 às 3:00 
+VOTOS: -1
+
+PERGUNTA: Função em C que conta quantas vezes a string aparece em um arquivo 
+DATA: 5/06 às 21:01 
+VOTOS: 0
+
+PERGUNTA: Invalid operands to binary expression 
+DATA: 5/06 às 20:16 
+VOTOS: -1
+
+PERGUNTA: Algoritmo para descobrir o melhor aluno da turma [fechada] 
+DATA: 5/06 às 12:52 
+VOTOS: -3
+
+PERGUNTA: Como posso fazer com que esse código apresente os 100 primeiros números pares não múltiplos de 10? [fechada] 
+DATA: 5/06 às 2:06 
+VOTOS: -4
+
+PERGUNTA: Listas encadeadas em C que percorra uma lista [fechada] 
+DATA: 5/06 às 0:56 
+VOTOS: -2
+
+PERGUNTA: Sou iniciante, porque este código em C não funciona como deveria? Matriz 3x3 [fechada] 
+DATA: 4/06 às 20:25 
+VOTOS: -2
+
+PERGUNTA: Erro em struct linguagem C [fechada] 
+DATA: 4/06 às 16:20 
+VOTOS: -3
+
+PERGUNTA: Alguem que manje de alguma linguagens [fechada] 
+DATA: 4/06 às 14:26 
+VOTOS: -5
+
+PERGUNTA: Função de combinação horiziontal, altera totalmente a matriz ao inves de apenas descer as colunas em um Mini Candy Crush [fechada] 
+DATA: 3/06 às 23:05 
+VOTOS: -2
+
+PERGUNTA: “printf()” pulando linhas [fechada] 
+DATA: 3/06 às 19:15 
+VOTOS: -1
+
+PERGUNTA: Função bubble sort C/C++ [fechada] 
+DATA: 3/06 às 16:01 
+VOTOS: -2
+
+PERGUNTA: Como faço para uma string maior que o fgets dela não passe para o próximo fgets? (C) 
+DATA: 3/06 às 14:55 
+VOTOS: -1
+
+PERGUNTA: Embaralhamento de String [fechada] 
+DATA: 3/06 às 14:28 
+VOTOS: 0
+
+PERGUNTA: O que estou a fazer de errado para o programa não correr como suposto? [fechada] 
+DATA: 3/06 às 6:53 
+VOTOS: -1
+
+PERGUNTA: Sub matriz em c 
+DATA: 2/06 às 23:54 
+VOTOS: 0
+
+PERGUNTA: Função de ordenação em C [fechada] 
+DATA: 2/06 às 21:59 
+VOTOS: -2
+
+PERGUNTA: Como somar dois números inteiros (A e B) sem utilizar os operadores “+” e “-”? Utilizar portas lógicas? Em linguagem C [fechada] 
+DATA: 2/06 às 17:25 
+VOTOS: -2
+
+PERGUNTA: Qual a melhor linguagem para criação de workflow para simulação de tarefas diárias [fechada] 
+DATA: 2/06 às 16:53 
+VOTOS: 0
+
+PERGUNTA: Scanf não funciona mesmo forçando a ignorar os espaços 
+DATA: 2/06 às 14:10 
+VOTOS: -2
+
+PERGUNTA: edição de item com arquivo 
+DATA: 2/06 às 14:08 
+VOTOS: -1
+
+PERGUNTA: Estou com problemas em armazenar um valor na struct em C 
+DATA: 2/06 às 4:10 
+VOTOS: 0
+
+PERGUNTA: Como fazer com que o usuario escolha a quantidade de elementos em um ARRAY? 
+DATA: 2/06 às 2:07 
+VOTOS: -1
+
+PERGUNTA: Elabore um programa que imprima o extrato de uma conta salário que permite até 3 Retiradas por mês [fechada] 
+DATA: 2/06 às 0:06 
+VOTOS: -3
+
+PERGUNTA: Olá, preciso de ajuda nesse código aqui, como que eu faço para excluir esse arquivo? [fechada] 
+DATA: 1/06 às 18:28 
+VOTOS: -2
+
+PERGUNTA: Como desenhar um quadrado em “*” na linguagem C [fechada] 
+DATA: 31/05 às 22:42 
+VOTOS: -3
+
+PERGUNTA: Conversao de variavel? [fechada] 
+DATA: 31/05 às 17:19 
+VOTOS: 0
+

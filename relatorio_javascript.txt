@@ -1,0 +1,200 @@
+PERGUNTA: O que é “…” em JavaScript? [duplicada] 
+DATA: 22 mins atrás 
+VOTOS: 1
+
+PERGUNTA: Como fazer deploy de um aplicação react com css feito em tailwind para heroku ou netlify? [fechada] 
+DATA: 54 mins atrás 
+VOTOS: 0
+
+PERGUNTA: Tamanho de array dentro de um objeto 
+DATA: 1 hora atrás 
+VOTOS: -1
+
+PERGUNTA: Como testar uma elemento usando compose? 
+DATA: 1 hora atrás 
+VOTOS: 0
+
+PERGUNTA: Qual a diferença entre withApollo e graphql? 
+DATA: 3 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Ferramenta para Criação de Mapas Interativos [fechada] 
+DATA: 6 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Como importar uma biblioteca externa no REACT.JS 
+DATA: 6 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Como preencher um combobox com base em outro combobox [fechada] 
+DATA: 7 horas atrás 
+VOTOS: 0
+
+PERGUNTA: decompor numeros [fechada] 
+DATA: 8 horas atrás 
+VOTOS: -4
+
+PERGUNTA: Crie um programa que leia um número e mostre os números pares até esse número, inclusive ele mesmo [fechada] 
+DATA: 17 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Como pedir entrada do usuário em Node.js? 
+DATA: 20 horas atrás 
+VOTOS: 1
+
+PERGUNTA: Criar mais de uma condição em um If [fechada] 
+DATA: 20 horas atrás 
+VOTOS: -5
+
+PERGUNTA: Não consigo retirar coluna do JOIN do select no sequelize para fazer um GROUP BY [fechada] 
+DATA: 21 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Ler JSON Complexo array multidimensional Javascript [fechada] 
+DATA: 22 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Como Inserir a hora e data no campo da frente na ultima atualização [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Tag script e style não encontrando o caminho do arquivo 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Como retornar todos os valores de um objeto? [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Quero conectar node.js e js [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: MVC(Model - View - Controller) em projeto que usa React Native, MongoDB e Node [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: ionic - utilização de rotina para gerar pedidos através de um link [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Renderização da Webpage à direita do Browser após carregamento de conteúdo [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Erro depois de chamar o Evento [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Javascript funcões - Como organizar multiplas funções para reutiliza-las? [fechada] 
+DATA: ontem 
+VOTOS: -4
+
+PERGUNTA: como trazer o serviço que sera utilizado pelo javascript [fechada] 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Recolher os sub-menus após o evento de click - JS 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Equivalente a in_array() para usar no Javascript [duplicada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Consumir dados automaticamente 
+DATA: ontem 
+VOTOS: 1
+
+PERGUNTA: não consigo criar uma condição para texto [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Corpo da requisição (req.body) retornando objeto vazio ao enviar formulário 
+DATA: ontem 
+VOTOS: 1
+
+PERGUNTA: Somar valores ao clicar em um botão que simula um lançamento de dados [fechada] 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Somar valores em javascript [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Estou com 2 erros: 1: Failed to load resource / 2: Uncaught TypeError 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Como inverter palavras de uma string? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Enviar 2 Array com json_encode com comando While PHP 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: como fazer a imagem aparecer no site?? oq tem de errado nesse codigo? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -6
+
+PERGUNTA: Como faço para fazer um catálogo que pode ser modificado pelo filtro [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Como fazer update no banco de dados utilizando checkbox? com javascript e php 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Make an alterable html table from javascript array [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Como definir as configurações de um plugin junto às configurações do Next.js? 
+DATA: 2 dias atrás 
+VOTOS: 1
+
+PERGUNTA: COMO CRIAR UMA <UL> INSERINDO ELEMENTOS DE UM NODELIST COLETADAS DE <TR> [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Escreva um código para filtrar dados em um Array utilizando-se do método Array.filter() com apoio de uma arrow function [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -3
+
+PERGUNTA: Atualizar uma div sem atualizar a página inteira [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Usar Material Web Components [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Duvidas com escopo! [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -3
+
+PERGUNTA: Refresh de uma <input> contendo valores do Banco de Dados 
+DATA: 2 dias atrás 
+VOTOS: 1
+
+PERGUNTA: Erro de requisição - método GET, JavaScript, Ajax, 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Validar o input com os valores populados pelo ajax 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Problemas ao reconhecer eventos de clicks em javascript [fechada] 
+DATA: 7/06 às 20:56 
+VOTOS: 0
+
+PERGUNTA: TypeError: replaceAll is not a function 
+DATA: 7/06 às 19:53 
+VOTOS: 1
+
+PERGUNTA: Como pegar o valor da session php e no campo select marcar como selected através de ajax? 
+DATA: 7/06 às 17:28 
+VOTOS: -1
+

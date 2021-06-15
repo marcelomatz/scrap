@@ -1,0 +1,200 @@
+PERGUNTA: Problema com laços 
+DATA: 1 hora atrás 
+VOTOS: -3
+
+PERGUNTA: Como trocar valores NaN de uma coluna de um DataFrame por valores arbitrários em Python 
+DATA: 3 horas atrás 
+VOTOS: -1
+
+PERGUNTA: AttributeError: 'str' object has no attribute 'cpf' [fechada] 
+DATA: 4 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Meu código está computando (somando) uma quantidade maior que eu desejo. Não estou sabendo resolver [fechada] 
+DATA: 5 horas atrás 
+VOTOS: 0
+
+PERGUNTA: NameError: name 'reads' is not defined 
+DATA: 6 horas atrás 
+VOTOS: -5
+
+PERGUNTA: Python - Duvida- transformar em Dataframe 
+DATA: 6 horas atrás 
+VOTOS: -4
+
+PERGUNTA: Mapeando valores de um dataframe, somando-os e adicionando a uma coluna em outro dataframe 
+DATA: 7 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Importar arquivo python 
+DATA: 8 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Como restaurar Valor que virou NaN em uma tabela [fechada] 
+DATA: 20 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Problema de índice de lista fora da faixa - Python [fechada] 
+DATA: 21 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Python Pandas - Cálculo de Porcentagem usando Total Diário [fechada] 
+DATA: 22 horas atrás 
+VOTOS: 0
+
+PERGUNTA: No if, quando o usuário coloca outro estado que não está especificado, ao invés de entrar no else, ele entra no if e continua o código normalmente [fechada] 
+DATA: ontem 
+VOTOS: -5
+
+PERGUNTA: Regex não encontra argumento - Python [fechada] 
+DATA: ontem 
+VOTOS: -4
+
+PERGUNTA: Excluir uma variável que o programa recebe no input.split(“ ”) no Python 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Imprimir somente as palavras selecionadas pela var [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Limpar uma string e mostrar o valor inserido [fechada] 
+DATA: ontem 
+VOTOS: -4
+
+PERGUNTA: tf.keras.metrics.AUC produces values larger than one when using MirroredStrategy [fechada] 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: PYTHON - RPA - Aguardar janela PROCESSAMENTO para continuar processo de automação 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Erro no INSERT INTO mysql e python [fechada] 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Transformar uma coluna em várias outras colunas num data frame pandas [fechada] 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Python - Read variables from another class in another file [fechada] 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Consigo fazer em Python um código melhor que este? Sou iniciante na linguagem e gostaria de saber se estou no caminho certo 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Como impedir que uma classe seja instanciada em Python? 
+DATA: ontem 
+VOTOS: 3
+
+PERGUNTA: E quanto no input escrevem uma virgula? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Como encontrar um determinado valor em uma linha que contém uma palavra-chave - python 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Como detectar Start codon e Stop codon em uma sequência de nucleotídeos utilizando Python? 
+DATA: 2 dias atrás 
+VOTOS: 3
+
+PERGUNTA: Exericico Impossivel [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -4
+
+PERGUNTA: Programa de adivinhar número dando erro [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Agrupar datas para um mesmo vencimento Phthon [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: if else na atribuição de uma variável em Python [duplicada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Contar sequencia Python [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Como faço para preencher uma coluna do dataframe2 com os valores de outra coluna que estão no dataframe1, usando Pandas? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: CEP para Latitude e Longitude Python 
+DATA: 2 dias atrás 
+VOTOS: 1
+
+PERGUNTA: Qual o padrão para nomeação de módulos (fontes) em Python? 
+DATA: 2 dias atrás 
+VOTOS: 8
+
+PERGUNTA: Como repetir um trecho de código determinadas vezes? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Problema de string em DataFrame - Python 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Meu código não está sendo reconhecido pelo programa, estava funcional antes de reiniciar o computador [fechada] 
+DATA: 7/06 às 21:12 
+VOTOS: 0
+
+PERGUNTA: Combinação de uma lista numérica com limitador (Python) 
+DATA: 7/06 às 20:03 
+VOTOS: 1
+
+PERGUNTA: PyQt5 - Identificar que pressionou F10 em um QLineEdit 
+DATA: 7/06 às 18:09 
+VOTOS: -3
+
+PERGUNTA: Problemas com função no Python [fechada] 
+DATA: 7/06 às 17:30 
+VOTOS: 0
+
+PERGUNTA: Web Scraping sem retorno correto 
+DATA: 7/06 às 16:48 
+VOTOS: -2
+
+PERGUNTA: Exercicio - Recebendo tempo em segundos e retornando a media e os valores menores a media 
+DATA: 7/06 às 16:25 
+VOTOS: -1
+
+PERGUNTA: sslv3 alert handshake failure (_ssl.c:1091) [fechada] 
+DATA: 7/06 às 14:42 
+VOTOS: -3
+
+PERGUNTA: Otimizar scritp colocando todas as variaveis na memoria [fechada] 
+DATA: 7/06 às 14:03 
+VOTOS: 0
+
+PERGUNTA: Erro: MySQL backend does not support timezone-aware datetimes when USE_TZ is False 
+DATA: 7/06 às 13:02 
+VOTOS: 0
+
+PERGUNTA: word_tokenize criando tokens com apenas um caractere em vez de palavras 
+DATA: 7/06 às 11:50 
+VOTOS: 1
+
+PERGUNTA: Definir uma variável em tempo de execução a partir de uma string e um objeto python [fechada] 
+DATA: 7/06 às 11:23 
+VOTOS: -1
+
+PERGUNTA: Equivalente em Python ao Proc Logistic do SAS 
+DATA: 7/06 às 11:12 
+VOTOS: 0
+
+PERGUNTA: Lendo um excel file, e salvando os dados em um dicionário em python? 
+DATA: 7/06 às 9:08 
+VOTOS: -2
+
+PERGUNTA: Como tirar print da tela de um celular android com python? [fechada] 
+DATA: 6/06 às 23:51 
+VOTOS: -2
+

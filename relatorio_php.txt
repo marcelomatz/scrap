@@ -1,0 +1,200 @@
+PERGUNTA: Como descobrir em que array esta o elemento printado 
+DATA: 3 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Por que está retornando somente uma linha? SQL [fechada] 
+DATA: 3 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Puxar dados do registro anterior [fechada] 
+DATA: 4 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Laravel error SSL [fechada] 
+DATA: 4 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Uncaught Error: Call to a member function find() on string no foreach [fechada] 
+DATA: 4 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Particionamento de tabelas com Laravel 8 [fechada] 
+DATA: 6 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Laravel: erro SSL certificate problem [fechada] 
+DATA: 7 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Como preencher um combobox com base em outro combobox [fechada] 
+DATA: 7 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Como fazer um consulta que retorne o valor em comum de uma tabela, onde em outra tabela existe uma relação (não consigo fazer isso) 
+DATA: 14 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Filtrar array por período de datas [fechada] 
+DATA: 16 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Problema com Jquery button 
+DATA: 18 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Como configurar o Apache e PHP-FPM para suportar vários subdomínios? [fechada] 
+DATA: 19 horas atrás 
+VOTOS: -3
+
+PERGUNTA: SQLSTATE[HY000] [2006] MySQL server has gone away [fechada] 
+DATA: 20 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Correção erro php em site [fechada] 
+DATA: 22 horas atrás 
+VOTOS: -2
+
+PERGUNTA: Como importar classes da API Google Client Services nos Controllers do Laravel 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Verificar assinatura digital da máquina com PHP [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Renderização da Webpage à direita do Browser após carregamento de conteúdo [fechada] 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Equivalente a in_array() para usar no Javascript [duplicada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: melhor nome para esse metodo em php 
+DATA: ontem 
+VOTOS: -4
+
+PERGUNTA: consultando números incompletos no mySQL [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Como conseguir validar CPF com php? [fechada] 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Alguém poderia me ajudar a criar uma expressão regular para retirar o nome e o numero do CRECI deste HTML? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Enviar 2 Array com json_encode com comando While PHP 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Notice: Undefined index: valorDireita in C:\xampp\htdocs\Anexus\arvoreBinariaAnexus\class\arvore.class.php on line 47 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Como faço para fazer um catálogo que pode ser modificado pelo filtro [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Como conectar banco mysql usando túnel ssh, em PHP [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Como conseguir validar um cpf com php? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -3
+
+PERGUNTA: Como fazer update no banco de dados utilizando checkbox? com javascript e php 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Troca de função php [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -3
+
+PERGUNTA: php não atualiza cadastro no bd mysql [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -4
+
+PERGUNTA: Formatar array em PHP dentro de uma tabela HTML [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Erro ao iniciar o mysql no xampp [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Extrair dados conjuntos de um JSON usando PHP 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: LARAVEL 8 - Problemas na relação entre tabelas após migração - 7 para o 8 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Refresh de uma <input> contendo valores do Banco de Dados 
+DATA: 2 dias atrás 
+VOTOS: 1
+
+PERGUNTA: Validar o input com os valores populados pelo ajax 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Como pegar a primeira palavra de um array ja existente no opencart 3? 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Cannot autowire service 
+DATA: 7/06 às 21:53 
+VOTOS: -1
+
+PERGUNTA: Como pegar o valor da session php e no campo select marcar como selected através de ajax? 
+DATA: 7/06 às 17:28 
+VOTOS: -1
+
+PERGUNTA: código PHP dentro da tag HEAD influencia no SEO [fechada] 
+DATA: 7/06 às 14:22 
+VOTOS: -1
+
+PERGUNTA: Formatar dados de um array de API em uma tabela HTML [fechada] 
+DATA: 7/06 às 13:11 
+VOTOS: -1
+
+PERGUNTA: mysqli order by coloca H antes de A [fechada] 
+DATA: 7/06 às 11:03 
+VOTOS: -1
+
+PERGUNTA: dompdf salvar arquivo em diretório apenas usando a IDE [fechada] 
+DATA: 7/06 às 4:54 
+VOTOS: -2
+
+PERGUNTA: Problema ao pegar verdadeiro IP de um usuário com uma função no PHP [fechada] 
+DATA: 7/06 às 3:44 
+VOTOS: 0
+
+PERGUNTA: Copiar id com 2 insert 
+DATA: 6/06 às 20:58 
+VOTOS: -1
+
+PERGUNTA: Switch alternative to php [duplicada] 
+DATA: 6/06 às 20:47 
+VOTOS: 0
+
+PERGUNTA: Como fazer a conexão de uma conexão em php? [fechada] 
+DATA: 6/06 às 19:36 
+VOTOS: 0
+
+PERGUNTA: Salvar documento em pasta com o dompdf [fechada] 
+DATA: 6/06 às 18:16 
+VOTOS: 0
+
+PERGUNTA: Autoload sem namespace e sem indicar caminho 
+DATA: 6/06 às 16:01 
+VOTOS: 0
+
+PERGUNTA: Seleção de Receitas por Ingredientes Especificos 
+DATA: 6/06 às 8:52 
+VOTOS: 0
+

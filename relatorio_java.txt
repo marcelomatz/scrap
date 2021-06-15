@@ -1,0 +1,200 @@
+PERGUNTA: como colocar espaço entre os resultados em println Java? 
+DATA: 1 hora atrás 
+VOTOS: -2
+
+PERGUNTA: Como preencher um array com o conteúdo de outro array quando este estiver cheio?(Java) 
+DATA: 5 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Devo usar get e set em todos os atributos? [duplicada] 
+DATA: 9 horas atrás 
+VOTOS: -1
+
+PERGUNTA: Upload de imagem profile photo e associar ao atributo “profilePhoto” na entidade User com Spring 
+DATA: 20 horas atrás 
+VOTOS: -3
+
+PERGUNTA: Alterar Fragments da Activity com botões de anterior e próximo em Java no Android Studio [fechada] 
+DATA: 21 horas atrás 
+VOTOS: 0
+
+PERGUNTA: Expressao Regular para validar string provedor do email - Java 
+DATA: ontem 
+VOTOS: -1
+
+PERGUNTA: Get e Set em ArrayList 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Codigo quebrando [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Preencher um Array e depois passar para outro em Java [fechada] 
+DATA: ontem 
+VOTOS: 0
+
+PERGUNTA: Como posso usar 2 adaper diferentes para listar a mesma lista no android? 
+DATA: ontem 
+VOTOS: -2
+
+PERGUNTA: Hi guys, im getting this error java.net.SocketException: Connection reset, any help would be appreciated! [fechada] 
+DATA: ontem 
+VOTOS: -3
+
+PERGUNTA: Converte um Array String em uma String [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Main.java:16: error: missing return statement } ^ 1 error [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Problemas com parse de campos herdados JAVAX WS CORE 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Erro no Eclipse: Unable to locate executable for jre1.8.0_271 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: locationListener retorna null após a retomada da activity 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: org.apache.jasper.JasperException: PWC6345: There is an error in invoking javac. A full JDK (not just JRE) is required [fechada] 
+DATA: 2 dias atrás 
+VOTOS: -2
+
+PERGUNTA: Como carregar a localização do usuário no mapa android studio? [fechada] 
+DATA: 2 dias atrás 
+VOTOS: 0
+
+PERGUNTA: Como passar uma string para dois tipos inteiros? 
+DATA: 2 dias atrás 
+VOTOS: -1
+
+PERGUNTA: Persistir histórico de entidades (objetos) usando MongoDB 
+DATA: 7/06 às 21:14 
+VOTOS: -1
+
+PERGUNTA: Como exibir o ultimo registro armazenado no banco de dados mysql em uma interface Swing do Java? 
+DATA: 7/06 às 10:16 
+VOTOS: -1
+
+PERGUNTA: Error creating bean with name 'transactionController' 
+DATA: 6/06 às 23:01 
+VOTOS: 0
+
+PERGUNTA: Erro ao Inserir icon num Jmenu 
+DATA: 6/06 às 14:07 
+VOTOS: -1
+
+PERGUNTA: Existe método ou algo do JAVA para RAIZ QUARTA? [fechada] 
+DATA: 6/06 às 2:36 
+VOTOS: -1
+
+PERGUNTA: Resultados sem valor nas variáveis, os valores adicionados na classe TesteMain não estão sendo usados nos metodos da classe Calculadora 
+DATA: 5/06 às 20:46 
+VOTOS: -1
+
+PERGUNTA: Pagina de erro não funciona [fechada] 
+DATA: 5/06 às 17:36 
+VOTOS: -1
+
+PERGUNTA: KOTLIN - As operações de longa duração devem ser executadas em threads de fundo e as operações relacionDAsa visão na thread principal [fechada] 
+DATA: 5/06 às 6:05 
+VOTOS: -2
+
+PERGUNTA: Problemas com a criação de novos projetos Java no NetBeans 
+DATA: 4/06 às 23:59 
+VOTOS: -1
+
+PERGUNTA: Como carregar um .jar externo no Java 11 
+DATA: 4/06 às 18:05 
+VOTOS: 0
+
+PERGUNTA: Há como interpolar strings em Java? 
+DATA: 4/06 às 15:42 
+VOTOS: 2
+
+PERGUNTA: Error: Unable to access jarfile [fechada] 
+DATA: 4/06 às 15:31 
+VOTOS: -2
+
+PERGUNTA: Realizando testes com Mockito,ResponseEntity e UriComponentBuilder 
+DATA: 4/06 às 15:21 
+VOTOS: -1
+
+PERGUNTA: Alguem que manje de alguma linguagens [fechada] 
+DATA: 4/06 às 14:26 
+VOTOS: -5
+
+PERGUNTA: The type of the expression must be an array type but it resolved to Aluno e The method nextAluno() is undefined for the type Scanner [fechada] 
+DATA: 3/06 às 21:11 
+VOTOS: -2
+
+PERGUNTA: A estrutura condicional “if else” é mais performática que um “switch case”? 
+DATA: 3/06 às 20:58 
+VOTOS: -3
+
+PERGUNTA: Como retornar a contagem de linhas de uma consulta no banco em um formulário Java? 
+DATA: 3/06 às 16:57 
+VOTOS: -1
+
+PERGUNTA: Layout com linhas e colunas bootstrap e PrimeFaces 
+DATA: 2/06 às 23:08 
+VOTOS: -1
+
+PERGUNTA: JSON no DatagramPacket - Java [fechada] 
+DATA: 2/06 às 18:43 
+VOTOS: -2
+
+PERGUNTA: Enumerações do Java são anti performáticas? 
+DATA: 2/06 às 15:00 
+VOTOS: 6
+
+PERGUNTA: Obter posição do scroll do RecyclerView 
+DATA: 2/06 às 14:52 
+VOTOS: -1
+
+PERGUNTA: Comunicação socket Java e Python 
+DATA: 2/06 às 9:37 
+VOTOS: 1
+
+PERGUNTA: Por que o método Math.toRadians retorna um valor inexato? 
+DATA: 2/06 às 2:47 
+VOTOS: 3
+
+PERGUNTA: Spring Boot - There was an unexpected error (type=Internal Server Error, status=500) [fechada] 
+DATA: 2/06 às 0:52 
+VOTOS: -1
+
+PERGUNTA: Como exibo um vetor que já foi ordenado de forma crescente? - JAVA 
+DATA: 1/06 às 22:01 
+VOTOS: -1
+
+PERGUNTA: Como usar split() dentro de um loop em Java? 
+DATA: 31/05 às 23:56 
+VOTOS: 2
+
+PERGUNTA: Filtro em Java (Android) com ParseQuery campo tipo Pointer 
+DATA: 31/05 às 23:45 
+VOTOS: 0
+
+PERGUNTA: Como formatar um número double para N decimais sem arredondar? 
+DATA: 29/05 às 15:52 
+VOTOS: -2
+
+PERGUNTA: Plugin para construir objetos java automaticamente no VSCode ou IntelliJ 
+DATA: 28/05 às 17:17 
+VOTOS: 0
+
+PERGUNTA: Problema com Regex e Java 
+DATA: 28/05 às 17:02 
+VOTOS: 0
+
+PERGUNTA: Quantos c:choose posso colocar em uma única página estática? 
+DATA: 28/05 às 15:44 
+VOTOS: -1
+
